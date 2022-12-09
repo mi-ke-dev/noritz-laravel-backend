@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5826b5b-d6d4-4cfe-8c17-1ebe8c15c4dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../noritz-laravel-backend/packages/noritz-claimform-laravel-package" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/noritz/claim-forms" />
+      <path value="$PROJECT_DIR$/vendor/spatie/once" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/moontoast/math" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/bcmath_compat" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/chronos" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/nova" />
+      <path value="$PROJECT_DIR$/vendor/brick/money" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/tightenco/ziggy" />
+      <path value="$PROJECT_DIR$/vendor/inertiajs/inertia-laravel" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/vapor-cli" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-aws-s3-v3" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/vendor/laravel/vapor-core" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/vendor/hollodotme/fast-cgi-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/riverline/multipart-parser" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/noritz/technical-info" />
+      <path value="$PROJECT_DIR$/vendor/noritz/parts-lookup" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/vendor/socialiteproviders/manager" />
+      <path value="$PROJECT_DIR$/vendor/socialiteproviders/microsoft-azure" />
+      <path value="$PROJECT_DIR$/vendor/socialiteproviders/google" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/spatie/macroable" />
+      <path value="$PROJECT_DIR$/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-ray" />
+      <path value="$PROJECT_DIR$/vendor/zbateson/mb-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/zbateson/stream-decorators" />
+      <path value="$PROJECT_DIR$/vendor/zbateson/mail-mime-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/spatie/ray" />
+      <path value="$PROJECT_DIR$/vendor/laravel/vapor-ui" />
+      <path value="$PROJECT_DIR$/vendor/benjaminhirsch/nova-slug-field" />
+      <path value="$PROJECT_DIR$/vendor/pktharindu/nova-permissions" />
+      <path value="$PROJECT_DIR$/vendor/eminiarts/nova-tabs" />
+      <path value="$PROJECT_DIR$/vendor/benjacho/belongs-to-many-field" />
+      <path value="$PROJECT_DIR$/vendor/digital-creative/clickable-table-row" />
+      <path value="$PROJECT_DIR$/vendor/melihovv/laravel-package-generator" />
+      <path value="$PROJECT_DIR$/vendor/noritz/pdf-embed" />
+      <path value="$PROJECT_DIR$/vendor/optimistdigital/nova-translations-loader" />
+      <path value="$PROJECT_DIR$/vendor/optimistdigital/nova-notes-field" />
+      <path value="$PROJECT_DIR$/vendor/gobrightspot/nova-detached-actions" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/zbateson/mail-mime-parser" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/zbateson/mb-wrapper" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/zbateson/stream-decorators" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/benjacho/belongs-to-many-field" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/benjaminhirsch/nova-slug-field" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/brick/money" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/cakephp/chronos" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/composer" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/noritz/pdf-embed" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/digital-creative/clickable-table-row" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/eminiarts/nova-tabs" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/hollodotme/fast-cgi-client" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/inertiajs/inertia-laravel" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/nova" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/gobrightspot/nova-detached-actions" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/vapor-cli" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/vapor-core" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/laravel/vapor-ui" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/league/flysystem-aws-s3-v3" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/melihovv/laravel-package-generator" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/moontoast/math" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/noritz/parts-lookup" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/noritz/technical-info" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/optimistdigital/nova-notes-field" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/optimistdigital/nova-translations-loader" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpseclib/bcmath_compat" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/pktharindu/nova-permissions" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/riverline/multipart-parser" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/socialiteproviders/google" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/socialiteproviders/manager" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/socialiteproviders/microsoft-azure" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/spatie/laravel-ray" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/spatie/macroable" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/spatie/once" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/spatie/ray" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/tightenco/ziggy" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/../noritz-laravel-backend/vendor/webmozart/assert" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1pyvWX6P74hTPZjCwJtz5Lvk40n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/js/Pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/js/Pages" />
+      <recent name="$PROJECT_DIR$/packages/noritz-claimform-laravel-package/src/Traits" />
+      <recent name="$PROJECT_DIR$/packages/noritz-pdf-embed" />
+      <recent name="$PROJECT_DIR$/packages/noritz-pdf-embed/routes" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5826b5b-d6d4-4cfe-8c17-1ebe8c15c4dd" name="Default Changelist" comment="" />
+      <created>1616168176598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616168176598</updated>
+      <workItem from="1616168177762" duration="5319000" />
+      <workItem from="1616180586687" duration="527000" />
+      <workItem from="1616362797089" duration="2085000" />
+      <workItem from="1616633080125" duration="869000" />
+      <workItem from="1616728367410" duration="14411000" />
+      <workItem from="1618354601711" duration="1965000" />
+      <workItem from="1619108141359" duration="8130000" />
+      <workItem from="1619206814282" duration="1269000" />
+      <workItem from="1619561551703" duration="523000" />
+      <workItem from="1619715977762" duration="6190000" />
+      <workItem from="1620065451523" duration="25000" />
+      <workItem from="1620251636986" duration="3674000" />
+      <workItem from="1620928629521" duration="650000" />
+      <workItem from="1621379475558" duration="362000" />
+      <workItem from="1622738526939" duration="17688000" />
+      <workItem from="1623088929074" duration="1967000" />
+      <workItem from="1624032880567" duration="3702000" />
+      <workItem from="1624292849351" duration="3448000" />
+      <workItem from="1624307867598" duration="6288000" />
+      <workItem from="1624480101053" duration="354000" />
+      <workItem from="1624480661509" duration="1588000" />
+      <workItem from="1624926209235" duration="4642000" />
+      <workItem from="1625517691598" duration="3408000" />
+      <workItem from="1625691707523" duration="3584000" />
+      <workItem from="1625846935855" duration="11908000" />
+      <workItem from="1625879202468" duration="10906000" />
+      <workItem from="1626378462744" duration="588000" />
+      <workItem from="1626380607763" duration="1628000" />
+      <workItem from="1626460947876" duration="4034000" />
+      <workItem from="1626904327263" duration="3314000" />
+      <workItem from="1626910480041" duration="12535000" />
+      <workItem from="1628620297435" duration="2580000" />
+      <workItem from="1628624791140" duration="376000" />
+      <workItem from="1629323236652" duration="14000" />
+      <workItem from="1629915776369" duration="2127000" />
+      <workItem from="1630085101209" duration="8115000" />
+      <workItem from="1630342127143" duration="5343000" />
+      <workItem from="1630534058096" duration="5775000" />
+      <workItem from="1631312842763" duration="4043000" />
+      <workItem from="1631552458449" duration="2338000" />
+      <workItem from="1631573518778" duration="13000" />
+      <workItem from="1631814687098" duration="11000" />
+      <workItem from="1632094206686" duration="35000" />
+      <workItem from="1633884687911" duration="2705000" />
+      <workItem from="1634162464777" duration="3586000" />
+      <workItem from="1634682064390" duration="2715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="311" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1631316515254">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="634" y="331" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-2560.-295.2560.1415/1792.-295.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1626973079524" />
+    <state x="634" y="331" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1626926673937" />
+    <state x="594" y="311" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1680.65.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1631316515254" />
+    <state x="100" y="125" width="1480" height="825" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1634792085228">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="100" y="125" width="1480" height="825" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1680.65.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1634792085228" />
+    <state x="100" y="125" width="1592" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1626970894949">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="100" y="125" width="1592" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-2560.-295.2560.1415/1792.-295.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1626970894949" />
+    <state x="100" y="125" width="1592" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1626381120583" />
+    <state x="100" y="125" width="1592" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1792.-295.2560.1415/0.25.1792.1095/-2560.-295.2560.1415@0.25.1792.1095" timestamp="1626906623720" />
+    <state x="505" y="185" width="670" height="676" key="search.everywhere.popup" timestamp="1630541580123">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="505" y="185" width="670" height="676" key="search.everywhere.popup/1680.65.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1630541580123" />
+  </component>
+</project>

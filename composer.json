@@ -1,0 +1,91 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
+    "license": "MIT",
+    "require-tmp": [],
+    "require": {
+        "php": "^8.0",
+        "benjacho/belongs-to-many-field": "^2.0",
+        "digital-creative/clickable-table-row": "^0.1.5",
+        "eminiarts/nova-tabs": "^1.4",
+        "facade/ignition": "^2.17",
+        "fideloper/proxy": "^4.4",
+        "fruitcake/laravel-cors": "^3.0",
+        "gobrightspot/nova-detached-actions": "^1.1",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "inertiajs/inertia-laravel": "^0.3.5",
+        "laravel/framework": "^8.12",
+        "laravel/jetstream": "^2.2",
+        "laravel/nova": "^3.22",
+        "laravel/sanctum": "^2.6",
+        "laravel/socialite": "^5.2",
+        "laravel/tinker": "^2.5",
+        "laravel/vapor-cli": "^1.13",
+        "laravel/vapor-core": "^2.10",
+        "laravel/vapor-ui": "^1.1",
+        "livewire/livewire": "^2.10",
+        "optimistdigital/nova-notes-field": "^2.0",
+        "optimistdigital/nova-sortable": "^2.4",
+        "pktharindu/nova-permissions": "^2.1",
+        "socialiteproviders/google": "^4.1",
+        "socialiteproviders/microsoft-azure": "^4.2",
+        "spatie/laravel-ray": "^1.19",
+        "tightenco/ziggy": "^1.0"
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.9.1",
+        "kitloong/laravel-migrations-generator": "^5.1",
+        "laravel/sail": "^1.0.1",
+        "melihovv/laravel-package-generator": "^7.0",
+        "mockery/mockery": "^1.4.2",
+        "nunomaduro/collision": "^5.0",
+        "phpunit/phpunit": "^9.3.3"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": []
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "scripts": {
+        "post-autoload-dump": [
+            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
+            "@php artisan package:discover --ansi"
+        ],
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "post-create-project-cmd": [
+            "@php artisan key:generate --ansi"
+        ]
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://nova.laravel.com"
+        }
+    ]
+}
